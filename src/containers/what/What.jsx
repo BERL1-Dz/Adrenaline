@@ -16,7 +16,7 @@ const What = () => {
         <h1 className="gradient__text">
           Les possibilités dépassent votre imagination
         </h1>
-        <p>Explore The Library</p>
+        <p>Explorez la bibliothèque</p>
       </div>
       <div className="gpt3__what-container">
         <Feature
