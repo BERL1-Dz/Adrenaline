@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Adrenaline/static/css/main.bc8d7dc5.css",
+    "main.js": "/Adrenaline/static/js/main.d9ffa8ab.js",
+    "static/media/possibility.png": "/Adrenaline/static/media/possibility.87ea10f808a94c6db2b0.png",
+    "static/media/gta5-1.png": "/Adrenaline/static/media/gta5-1.0302f8e118e6b785c5c8.png",
+    "static/media/blog01.png": "/Adrenaline/static/media/blog01.dd7a9a527cd010fdde15.png",
+    "static/media/blog02.png": "/Adrenaline/static/media/blog02.3e022987cd107128be78.png",
+    "static/media/blog03.png": "/Adrenaline/static/media/blog03.1929b7269bddb31ef5ac.png",
+    "static/media/blog04.png": "/Adrenaline/static/media/blog04.573057c4a79737724dc0.png",
+    "static/media/blog05.png": "/Adrenaline/static/media/blog05.3873233b869c66a3aaf8.png",
+    "static/media/logo1.png": "/Adrenaline/static/media/logo1.a59aeea902de0169d2e7.png",
+    "static/media/people.png": "/Adrenaline/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/Adrenaline/index.html",
+    "main.bc8d7dc5.css.map": "/Adrenaline/static/css/main.bc8d7dc5.css.map",
+    "main.d9ffa8ab.js.map": "/Adrenaline/static/js/main.d9ffa8ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8d7dc5.css",
+    "static/js/main.d9ffa8ab.js"
+  ]
+}
